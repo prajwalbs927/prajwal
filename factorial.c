@@ -11,6 +11,6 @@ factorial() {
   }
 
   printf("Factorial of %d is %d", n, fact);
-
+  printf("Factorial of %d is %d", n, fact);
   //return 0;
 }
