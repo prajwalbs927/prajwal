@@ -13,5 +13,6 @@ factorial() {
   printf("Factorial of %d is %d", n, fact);
   printf("Factorial of %d is %d", n, fact);
   printf("Factorial of %d is %d", n, fact);
+  echo "hello"
   //return 0;
 }
